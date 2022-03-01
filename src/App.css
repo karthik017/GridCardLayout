@@ -1,0 +1,36 @@
+.cardDiv{
+    margin: auto;
+    width: 40rem;
+    display: grid;
+    justify-content: center;
+    margin: 20px auto;
+    box-shadow: 0 8px 10px 0 rgba(0,0,0,0.2);
+}
+
+.logo{
+    width: 200px;
+    height: 200px;
+}
+.logoContainer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -60px;
+}
+.navBarMain{
+    height: 100px;
+    box-shadow: 0 2px 10px 0 rgb(0 0 0 /10%);
+}
+.cardImage{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    margin: 0 auto;
+    padding: 10px;
+}
+.cardBody{
+    border-top: 1px solid black;
+}
+.spinner{
+    margin-top: 200px;
+
+}
